@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Grow Up",
+  "base_artist": "BE:FIRST",
+  "createdAt": "2025-12-28T17:00:01.457703Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mammas Don't Let Your Babies Grow up to Be Cowboys (Live at Harrah's Casino, Lake Tahoe, NV - April 1978)",
+      "artist": "Willie Nelson",
+      "has_synced": false,
+      "path": "select/01_Mammas_Don't_Let_Your_Babies_Grow_up_to_Be_Cowboys_(Live_at_Harrah's_Casino,_Lak_Willie_Nelson.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mammas Don't Let Your Babies Grow Up to Be Cowboys (Remastered for Buddha - October 30, 2000)",
+      "artist": "Waylon Jennings feat. Willie Nelson",
+      "has_synced": true,
+      "path": "select/02_Mammas_Don't_Let_Your_Babies_Grow_Up_to_Be_Cowboys_(Remastered_for_Buddha_-_Octo_Waylon_Jennings_feat._Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mammas Don't Let Your Babies Grow up to Be Cowboys (Remastered For Buddha - October 30, 2000)",
+      "artist": "Waylon Jennings & Willie Nelson",
+      "has_synced": true,
+      "path": "select/03_Mammas_Don't_Let_Your_Babies_Grow_up_to_Be_Cowboys_(Remastered_For_Buddha_-_Octo_Waylon_Jennings_&_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mammas Don't Let Your Babies Grow Up to Be Cowboys",
+      "artist": "Waylon Jennings feat. Willie Nelson",
+      "has_synced": true,
+      "path": "select/04_Mammas_Don't_Let_Your_Babies_Grow_Up_to_Be_Cowboys_Waylon_Jennings_feat._Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mammas, Don't Let Your Babies Grow Up to Be Cowboys",
+      "artist": "Waylon Jennings & Willie Nelson",
+      "has_synced": true,
+      "path": "select/05_Mammas,_Don't_Let_Your_Babies_Grow_Up_to_Be_Cowboys_Waylon_Jennings_&_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mammas, Don't Let Your Babies Grow Up to Be Cowboys",
+      "artist": "Waylon Jennings",
+      "has_synced": true,
+      "path": "select/06_Mammas,_Don't_Let_Your_Babies_Grow_Up_to_Be_Cowboys_Waylon_Jennings.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mammas, Don't Let Your Babies Grow Up to Be Cowboys",
+      "artist": "Waylon Jennings & Willie Nelson",
+      "has_synced": true,
+      "path": "select/07_Mammas,_Don't_Let_Your_Babies_Grow_Up_to_Be_Cowboys_Waylon_Jennings_&_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "When I Grow Up (2018 - Remaster)",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/08_When_I_Grow_Up_(2018_-_Remaster)_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "When I Grow Up",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/09_When_I_Grow_Up_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "When I Grow Up",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/10_When_I_Grow_Up_Garbage.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "When I Grow Up (Jagz Kooner Remix)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/11_When_I_Grow_Up_(Jagz_Kooner_Remix)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "When I Grow Up (Jagz Kooner)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/12_When_I_Grow_Up_(Jagz_Kooner)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "WHEN I GROW UP",
+      "artist": "Yaeji",
+      "has_synced": true,
+      "path": "select/13_WHEN_I_GROW_UP_Yaeji.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Grow Up and Blow Away",
+      "artist": "Metric",
+      "has_synced": true,
+      "path": "select/14_Grow_Up_and_Blow_Away_Metric.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "That's How People Grow Up",
+      "artist": "Morrissey",
+      "has_synced": false,
+      "path": "select/15_That's_How_People_Grow_Up_Morrissey.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "That's How People Grow Up",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/16_That's_How_People_Grow_Up_Morrissey.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "When I Grow Up - Bassnectar Remix",
+      "artist": "Fever Ray",
+      "has_synced": true,
+      "path": "select/17_When_I_Grow_Up_-_Bassnectar_Remix_Fever_Ray.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Grow Up",
+      "artist": "BE:FIRST",
+      "has_synced": false,
+      "path": "select/pl_01_Grow_Up_BE_FIRST.txt"
+    }
+  ]
+}
